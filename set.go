@@ -33,7 +33,7 @@ SOFTWARE.
 // access, but a non-thread-safe implementation is also provided for
 // programs that can benefit from the slight speed improvement and
 // that can enforce mutual exclusion through other means.
-package mapset
+package set
 
 // Set is the primary interface provided by the mapset package.  It
 // represents an unordered set of data and a large number of
