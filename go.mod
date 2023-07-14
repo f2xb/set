@@ -1,3 +1,3 @@
-module github.com/deckarep/golang-set/v2
+module github.com/f2xb/set
 
 go 1.18
